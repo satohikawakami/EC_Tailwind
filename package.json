@@ -1,0 +1,23 @@
+{
+  "name": "EC_Tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satohikawakami/EC_Tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satohikawakami/EC_Tailwind/issues"
+  },
+  "homepage": "https://github.com/satohikawakami/EC_Tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
